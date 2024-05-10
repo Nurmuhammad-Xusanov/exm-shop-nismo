@@ -4,7 +4,7 @@ import AuthRoutes from "./routes/auth.js";
 import mongoose from "mongoose";
 import ProductRoutes from "./routes/products.js";
 import session from "express-session";
-import * as dotenv from "dotenv";
+import dotenv from "dotenv";
 import flash from "connect-flash";
 import cookieParser from "cookie-parser";
 import varMIddleware from "./middleware/var.js";

@@ -11,7 +11,8 @@ import varMIddleware from "./middleware/var.js";
 import userMiddleware from "./middleware/user.js";
 import hbshelper from './utils/index.js'
 
-dotenv.config();
+
+dotenv.config({ path: "/.env" });
 
 const app = express();
 

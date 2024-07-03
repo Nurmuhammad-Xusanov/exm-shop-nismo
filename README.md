@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Building a Notion Clone with Next.js Stripe Node.js Shadcn UI and TypeScript</h1>
+<h1 align="center" id="title">Building a Online Shop using NodeJs and Handlebars</h1>
 
 
 <p id="description">This Exm Shop nismo project was created using NodeJs and HandleBars as an online store example. The main goal of this project was to learn NodeJs. The project is hosted on a free server, so the performance is slow. </p>

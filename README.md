@@ -44,3 +44,5 @@ Technologies used in the project:
 *   Handlebars
 *   JavaScript
 *   Bootstrap
+*   MongoDB
+*   Mongoose
